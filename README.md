@@ -71,7 +71,7 @@ npm install
 ## Start development server
 npm run dev
 
-🔗 Visit → http://localhost:3000/
+🔗 Visit →  http://localhost:3000
  🎉
 
  # 🔥 Future Enhancements
