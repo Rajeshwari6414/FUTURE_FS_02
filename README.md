@@ -7,7 +7,7 @@ A modern and lightweight shopping interface built using **Next.js + Tailwind CSS
 
 ## 🚀 Live Demo
 
-🔗 **Explore here → https://future-fs-02.vercel.app/**  
+🔗 **Explore here → https://future-fs-02-pi.vercel.app/**  
 No installation required — just click & browse!
 
 ---
@@ -40,29 +40,18 @@ This isn’t just a sample UI — it's a scalable, developer-friendly e-commerce
 
 ---
 
-📦 FUTURE_FS_02
-│
-├── components/ → Navbar, product cards, UI elements
-├── pages/ → Screens / Routing pages
-├── styles/ → Global Tailwind styles
-├── data/ → Product dataset
-├── public/ → Static assets
-└── package.json → Config & dependencies
-
-
----
 
 
 # 📂 Folder Structure
 
 📦 FUTURE_FS_02
-│
-├── components/ → Navbar, product cards, UI elements
-├── pages/ → Screens / Routing pages
-├── styles/ → Global Tailwind styles
-├── data/ → Product dataset
-├── public/ → Static assets
-└── package.json → Config & dependencies
+
+- components/ → Navbar, product cards, UI elements
+-  pages/ → Screens / Routing pages
+-  styles/ → Global Tailwind styles
+- data/ → Product dataset
+- public/ → Static assets
+- package.json → Config & dependencies
 
 
 ---
