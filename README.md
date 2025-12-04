@@ -96,3 +96,8 @@ B.Tech – Artificial Intelligence & Data Science
 📧 2024ad0334@svce.ac.in
 
 🔗 LinkedIn: https://www.linkedin.com/in/rajeshwari-b-c-a12774327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+# ⭐ Want to Support?
+
+If you like this project, consider giving it a ★ Star on GitHub!
+It motivates me to build more awesome projects 💙
